@@ -100,6 +100,6 @@ Now you have detailed instructions on how to install, set up, and use your Blogg
 Contributions are welcome! Feel free to open issues and pull requests for any improvements or bug fixes.
 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/Hussain-D/Blogging-Website-MVGR-Blog-Bundle/blob/main/LICENSE.txt) - see the [LICENSE](LICENSE.txt) file for details.
 
 This enhanced README provides a comprehensive overview of your Blogging Website project, including its features, installation instructions, screenshots, and information on how others can contribute. Make sure to replace the placeholder links and filenames with the actual ones from your project.
