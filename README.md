@@ -4,6 +4,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/Hussain-D/Blogging-Website-MVGR-Blog-Bundle)](https://github.com/Hussain-D/Blogging-Website-MVGR-Blog-Bundle/issues)
 [![GitHub license](https://img.shields.io/github/license/Hussain-D/Blogging-Website-MVGR-Blog-Bundle)](https://github.com/Hussain-D/Blogging-Website-MVGR-Blog-Bundle/blob/main/LICENSE)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Project Description
 
 This is a Blogging Website project built using the Django web framework. It provides a platform for users to write and share blog posts, connect with other bloggers, and engage in discussions.
@@ -98,6 +100,6 @@ Now you have detailed instructions on how to install, set up, and use your Blogg
 Contributions are welcome! Feel free to open issues and pull requests for any improvements or bug fixes.
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
 This enhanced README provides a comprehensive overview of your Blogging Website project, including its features, installation instructions, screenshots, and information on how others can contribute. Make sure to replace the placeholder links and filenames with the actual ones from your project.
