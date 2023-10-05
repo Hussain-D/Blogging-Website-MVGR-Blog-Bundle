@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Hussain-D/Blogging-Website-MVGR-Blog-Bundle)](https://github.com/Hussain-D/Blogging-Website-MVGR-Blog-Bundle/issues)
 [![GitHub license](https://img.shields.io/github/license/Hussain-D/Blogging-Website-MVGR-Blog-Bundle)](https://github.com/Hussain-D/Blogging-Website-MVGR-Blog-Bundle/blob/main/LICENSE.txt)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Hussain-D/Blogging-Website-MVGR-Blog-Bundle/blob/main/LICENSE.txt)
 
 ## Project Description
 
